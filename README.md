@@ -2,7 +2,7 @@
 
 # Project Name: Logistics and Delivery Control App
 <p align="center">
-<img width="200" height="300" https://github.com/victorbrigido/AppLogTest/blob/main/assets/toreadme/login.gif">
+<img width="400" height="711" https://github.com/victorbrigido/AppLogTest/blob/main/assets/toreadme/login.gif">
 </p>
 
 ## Description (Descrição)
