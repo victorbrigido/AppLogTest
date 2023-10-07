@@ -34,6 +34,8 @@ Este projeto é um aplicativo móvel desenvolvido utilizando React Native, com o
 
 4. **Cadastro (Registro)**
    - Allows users to create new accounts.
+   - ![cadastro](https://github.com/victorbrigido/AppLogTest/assets/110338761/e98386b0-a2a9-4e7a-b0d3-fa9a97d6db56)
+
 
 5. **DetalhesdaEntrega (Delivery Details)**
    - Provides detailed information about a delivery.
