@@ -2,6 +2,7 @@
 
 # Project Name: Logistics and Delivery Control App
 
+
 ## Description (Descrição)
 
 This project is a mobile application developed using React Native, aimed at managing logistics and delivery operations. The app comprises 9 main pages: SignIN, Welcome, Home, Cadastro (Registration), DetalhesdaEntrega (Delivery Details), Historico (History), Insert, Chat, and Logoff. The application is currently in a usable state and is undergoing testing.
