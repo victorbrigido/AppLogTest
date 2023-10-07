@@ -39,6 +39,8 @@ Este projeto é um aplicativo móvel desenvolvido utilizando React Native, com o
 
 6. **Historico (History)**
    - Displays a history of completed or canceled deliveries.
+   - ![historico](https://github.com/victorbrigido/AppLogTest/assets/110338761/6f1d2057-386f-4ed9-a46b-3882b9d21db8)
+
 
 7. **Insert (Inserir)**
    - Allows users to input new delivery data.
