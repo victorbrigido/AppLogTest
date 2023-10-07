@@ -24,6 +24,7 @@ Este projeto é um aplicativo móvel desenvolvido utilizando React Native, com o
 
 1. **SignIN (Entrar)**
    - Allows users to log in with their credentials.
+   - ![login2](https://github.com/victorbrigido/AppLogTest/assets/110338761/c8712c8e-9530-4c3b-af6e-a5aa2394b29e)
 
 2. **Welcome (Bem-vindo)**
    - Provides a welcoming screen and navigation options.
