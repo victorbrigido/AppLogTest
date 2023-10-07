@@ -45,6 +45,8 @@ Este projeto é um aplicativo móvel desenvolvido utilizando React Native, com o
 
 8. **Chat (Chat)**
    - Enables real-time messaging between users within the same organization.
+   - ![Chat2](https://github.com/victorbrigido/AppLogTest/assets/110338761/78ccaf79-5719-4e93-b27f-f16003dcad43)
+
 
 9. **Logoff (Sair)**
    - Logs the user out of the application.
