@@ -31,6 +31,8 @@ Este projeto é um aplicativo móvel desenvolvido utilizando React Native, com o
 
 3. **Home (Início)**
    - Serves as the main dashboard, displaying relevant information.
+   - ![home](https://github.com/victorbrigido/AppLogTest/assets/110338761/802e326c-b85c-4f49-8813-cceaffbe7092)
+
 
 4. **Cadastro (Registro)**
    - Allows users to create new accounts.
