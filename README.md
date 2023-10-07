@@ -49,6 +49,8 @@ Este projeto é um aplicativo móvel desenvolvido utilizando React Native, com o
 
 7. **Insert (Inserir)**
    - Allows users to input new delivery data.
+   - ![novaentrega](https://github.com/victorbrigido/AppLogTest/assets/110338761/3b0a095b-cce2-428b-a511-497dbd3574b4)
+
 
 8. **Chat (Chat)**
    - Enables real-time messaging between users within the same organization.
